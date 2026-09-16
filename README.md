@@ -6,7 +6,7 @@ Cybersecurity graduate with a **B.Sc. in Computer Science with Cybersecurity**, 
 
 I build hands-on security and AI projects to apply cybersecurity concepts to real-world problems and continuously strengthen my technical skills.
 
-**Open to:** Entry-level Cybersecurity · VAPT · SOC Analyst · Information Security roles
+**Open to:** Entry-level Cybersecurity · VAPT · Junior Penetration Tester · Information Security roles
 
 ---
 
