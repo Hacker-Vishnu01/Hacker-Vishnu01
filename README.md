@@ -2,20 +2,21 @@
 
 ### Aspiring Cybersecurity Engineer & Penetration Tester
 
-I'm a cybersecurity-focused graduate building hands-on projects in **Vulnerability Assessment & Penetration Testing (VAPT), web application security, network security, SOC operations, and security automation**.
+Cybersecurity graduate focused on **Vulnerability Assessment & Penetration Testing (VAPT), web application security, network security, SOC operations, and security automation**.
 
-I enjoy learning by building practical security tools and applying cybersecurity concepts to real-world projects.
+I build hands-on security and AI projects to strengthen my practical skills and apply cybersecurity concepts to real-world problems.
+
+**Open to:** Entry-level Cybersecurity · VAPT · SOC Analyst · Information Security roles
 
 ---
 
 ## 🔐 Cybersecurity Focus
 
 - Vulnerability Assessment & Penetration Testing
-- Web Application Security
-- OWASP Top 10
+- Web Application Security & OWASP Top 10
 - Network Security & Traffic Analysis
 - SOC & Security Monitoring
-- Log Analysis
+- Log Analysis & Incident Investigation
 - Ethical Hacking
 - Security Automation with Python
 
@@ -33,23 +34,23 @@ I enjoy learning by building practical security tools and applying cybersecurity
 ## 🚀 Featured Projects
 
 ### 🔎 Research Paper Answer Bot
-A Retrieval-Augmented Generation (RAG) system that answers questions from a curated collection of research papers using hybrid retrieval and evidence-grounded generation.
+Evidence-grounded **Retrieval-Augmented Generation (RAG)** system for answering questions from academic research papers using hybrid retrieval and local LLM generation.
 
 **Tech:** Python · RAG · ChromaDB · BM25 · Sentence Transformers · Ollama · Llama 3.2 · Streamlit
 
-**Repository:** [research-paper-answer-bot](https://github.com/Hacker-Vishnu01/research-paper-answer-bot)
+→ [View Repository](https://github.com/Hacker-Vishnu01/research-paper-answer-bot)
 
-### 💰 Coinsy — AI-Powered Finance Assistant
-A full-stack finance application designed to provide expense management, analysis, and AI-powered financial insights.
+### 💰 Coinsy — AI-Powered Personalized Finance Assistant
+Full-stack application combining expense management, secure authentication, PostgreSQL data management, and AI-powered financial insights.
 
 **Tech:** React · Django REST Framework · PostgreSQL · LangChain · Hugging Face
 
-**Repository:** [final-year-project](https://github.com/Hacker-Vishnu01/final-year-project)
+→ [View Repository](https://github.com/Hacker-Vishnu01/final-year-project)
 
 ### 🌐 Cybersecurity Portfolio
-My personal portfolio showcasing cybersecurity projects, technical skills, and professional work.
+Personal portfolio showcasing cybersecurity projects, technical skills, hands-on work, and professional profile.
 
-**Portfolio:** [vishnu-palanisamy-cy-csy2.bolt.host](https://vishnu-palanisamy-cy-csy2.bolt.host)
+→ [View Portfolio](https://vishnu-palanisamy-cy-csy2.bolt.host)
 
 ---
 
@@ -58,16 +59,16 @@ My personal portfolio showcasing cybersecurity projects, technical skills, and p
 - Web Application Penetration Testing
 - SOC & Security Monitoring
 - Security Automation with Python
-- AI-powered cybersecurity tools
+- AI-powered cybersecurity applications
 - CTFs and practical vulnerability research
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/vishnu-palanisamy](https://linkedin.com/in/vishnu-palanisamy)
-- **Portfolio:** [vishnu-palanisamy-cy-csy2.bolt.host](https://vishnu-palanisamy-cy-csy2.bolt.host)
-- **LeetCode:** [leetcode.com/u/vishnu1101](https://leetcode.com/u/vishnu1101/)
+- **LinkedIn:** https://linkedin.com/in/vishnu-palanisamy
+- **Portfolio:** https://vishnu-palanisamy-cy-csy2.bolt.host
+- **LeetCode:** https://leetcode.com/u/vishnu1101/
 
 ---
 
