@@ -1,10 +1,10 @@
 # Hi, I'm Vishnu Palanisamy 👋
 
-### Aspiring Cybersecurity Engineer & Penetration Tester
+### Cybersecurity Engineer & Penetration Tester
 
-Cybersecurity graduate focused on **Vulnerability Assessment & Penetration Testing (VAPT), web application security, network security, SOC operations, and security automation**.
+Cybersecurity graduate with a **B.Sc. in Computer Science with Cybersecurity**, focused on **Vulnerability Assessment & Penetration Testing (VAPT), web application security, network security, SOC operations, and security automation**.
 
-I build hands-on security and AI projects to strengthen my practical skills and apply cybersecurity concepts to real-world problems.
+I build hands-on security and AI projects to apply cybersecurity concepts to real-world problems and continuously strengthen my technical skills.
 
 **Open to:** Entry-level Cybersecurity · VAPT · SOC Analyst · Information Security roles
 
